@@ -10,6 +10,8 @@ wins = 0
 losses = 0
 ties = 0
 
+print("You have 10 wins or 10 losses to see if you can beat the computer!")
+
 while wins <10 and losses <10:
     print('\nRock, Paper, Scissors or Stop?\n')
 
